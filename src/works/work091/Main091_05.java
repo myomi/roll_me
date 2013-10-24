@@ -15,7 +15,7 @@ public class Main091_05 {
 	 * @return さいころの出目に対応する○の羅列
 	 */
 	public static String toMark(int value) {
-		// TODO 問題91-04をやってみよう「数値を○に変換しろ！」
+		// TODO 問題91-05をやってみよう「数値を○に変換しろ！」
 		return "";
 	}
 }
